@@ -30,3 +30,5 @@ git branch -> list of branches
 git branch <branch_name> -> create a new branch
 
 git switch <branch_name> - switch branches
+
+git merge <branch_name> -> merge branches
