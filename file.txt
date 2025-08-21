@@ -1,0 +1,18 @@
+Hello
+
+git -> version control
+github -> storage
+
+commands
+------------------
+
+git init -> initialize
+
+git config --global user.name "mern-trainer"
+git config --global user.email "email"
+
+git add . -> stage all files
+git add <file1> <file2> -> spec. file
+
+
+
