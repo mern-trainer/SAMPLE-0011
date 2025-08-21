@@ -32,3 +32,7 @@ git branch <branch_name> -> create a new branch
 git switch <branch_name> - switch branches
 
 git merge <branch_name> -> merge branches
+
+git checkout <branch_name> -> switch branches
+git checout -b <branch_name> -> switch to new branch (create and switch)
+
