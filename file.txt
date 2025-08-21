@@ -14,5 +14,8 @@ git config --global user.email "email"
 git add . -> stage all files
 git add <file1> <file2> -> spec. file
 
+git commit -m "<message>"
 
+git remote add <remote_name> <remote_url> -> set remote
 
+git config --get remote.<remote_name>.url -> check remote url
