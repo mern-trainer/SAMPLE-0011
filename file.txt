@@ -19,3 +19,12 @@ git commit -m "<message>"
 git remote add <remote_name> <remote_url> -> set remote
 
 git config --get remote.<remote_name>.url -> check remote url
+
+git push <remote_name> <branch_name> -> push changes to github
+
+
+branches
+----------------------------------------
+
+git branch -> list of branches
+git branch <branch_name> -> create a new branch
